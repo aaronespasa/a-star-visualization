@@ -1,1 +1,2 @@
-# a-star-visualization
+# A Star Visualization
+Technologies used: Next.js & React
